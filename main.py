@@ -86,3 +86,5 @@ def game(rule, attempts):
 
 
 game("Only natural nubers! P.s. If you won at first attempt, you will have only just to fill them with this number. Will be fixed soon.", 3)
+
+print('hello world')
